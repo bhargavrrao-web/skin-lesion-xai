@@ -76,3 +76,7 @@ It measures lesion abnormality using:
 - Attention-based region importance  
 
 
+## ⚠️ Notebook Preview Issue
+GitHub may not render the notebook due to known metadata compatibility issues.  
+Please download and open it in Google Colab for full results and outputs.
+
